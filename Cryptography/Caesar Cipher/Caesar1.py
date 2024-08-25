@@ -1,10 +1,10 @@
-# Caesar's Cipher Implementation 1 (Upper Case Plaintext)
+# Caesar's Cipher Implementation 1 (Upper Case Plaintext Encrypt)
 
 # Lookup alphabet reference
 ALPHABET = ' ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 # Key to shift by 5
-KEY = 1
+KEY = 5
 
 # Function to cipher
 def encrypt_caesar(plaintext):
