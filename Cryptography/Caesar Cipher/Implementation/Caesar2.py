@@ -29,7 +29,7 @@ def decrypt_caesar(ciphertext):
     return plaintext
 
 if __name__ == '__main__':
-    original_message = 'This is original haha'
+    original_message = 'CalTerra is a fresh take on calculating carbon footprint digitally through an app based approach to support green environment in your own way'
 
     ciphered = encrypt_caesar(original_message)
     deciphered = decrypt_caesar(ciphered)
